@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **marcinkorbec/marcinkorbec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 JavaScript Maszynopis HTML5 Reagować NastępnyJs CSS3 TailwindCSS Bootstrap Materiałowy interfejs użytkownika Redux NodeJS Wyrazić NestJS MongoDB MySQL 
 Here are some ideas to get you started:
@@ -13,9 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=marcinkorbec&title=MultiLanguage,Commits,Repositories&theme=onelight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="http://www.github.com/marcinkorbec"><img src="https://github-readme-stats.vercel.app/api?username=marcinkorbec0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="marcinkorbec's GitHub stats" /></a>
 
