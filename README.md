@@ -2,7 +2,7 @@
 
 <!--
 **marcinkorbec/marcinkorbec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+JavaScript Maszynopis HTML5 Reagować NastępnyJs CSS3 TailwindCSS Bootstrap Materiałowy interfejs użytkownika Redux NodeJS Wyrazić NestJS MongoDB MySQL 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
