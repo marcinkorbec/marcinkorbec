@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=marcinkorbec&title=MultiLanguage,Commits,Repositories&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=marcinkorbec&title=MultiLanguage,Commits,Repositories&theme=onelight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="http://www.github.com/marcinkorbec"><img src="https://github-readme-stats.vercel.app/api?username=fremen1990&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fremen1990's GitHub stats" /></a>
 
