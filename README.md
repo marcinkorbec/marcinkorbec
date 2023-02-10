@@ -1,20 +1,16 @@
-### Hi there 👋
+## Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Marcin,
+### Thanks for viewing my GitHub Profile! :wave:
 
-**marcinkorbec/marcinkorbec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-JavaScript Maszynopis HTML5 Reagować NastępnyJs CSS3 TailwindCSS Bootstrap Materiałowy interfejs użytkownika Redux NodeJS Wyrazić NestJS MongoDB MySQL 
-Here are some ideas to get you started:
+### :heart: I love coding in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcinkorbec&layout=compact"/>
+<br/>
 
+### 🛠️ ...but I also know and use: 
 
-<a href="http://www.github.com/marcinkorbec"><img src="https://github-readme-stats.vercel.app/api?username=marcinkorbec&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="marcinkorbec's GitHub stats" /></a>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,materialui,angular,docker,nodejs,git,vscode,figma,wordpress)](https://skillicons.dev)
+
+<br />
 
 <a href="http://www.github.com/marcinkorbec"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcinkorbec&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
